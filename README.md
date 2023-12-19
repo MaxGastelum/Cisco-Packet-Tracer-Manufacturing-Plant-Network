@@ -1,2 +1,2 @@
 # Cisco-Packet-Tracer-Manufacturing-Plant-Network
-I created a simulated network on Cisco Packet Tracer for a manufacturing company that consists of 3 separate buildings with different departments within each building.
+I created a simulated network on Cisco Packet Tracer for a manufacturing company that consists of 3 separate buildings with different departments within each building. This network incorporates services and processes including VLSM, DHCP, OSPF, security controls, access-control lists, VLANs, ROAS, and trunking. More detailed information can be found on the included pdf.
